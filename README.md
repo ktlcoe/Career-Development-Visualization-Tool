@@ -1,7 +1,4 @@
 # Career-Development-Visualization-Tool
-#############################################################
-CSE 6242 Team 44 (Witty Goldfish) Project Deliverables README
-#############################################################
 
 ###########
 DESCRIPTION
